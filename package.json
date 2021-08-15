@@ -1,6 +1,6 @@
 {
   "name": "react-use-storage-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React use hook for shared and persisted state",
   "keywords": [
     "react",
