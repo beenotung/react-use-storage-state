@@ -22,7 +22,7 @@ This package provider simpler development experiment (DX) for shared state than 
 [1]: For state shared in the same browser tab, but isolated across different browser tab.
 
 
-Demo: [https://react-use-storage-state-demo.surge.sh](https://react-use-storage-state-demo.surge.sh
+Demo: [https://react-use-storage-state-demo.surge.sh](https://react-use-storage-state-demo.surge.sh)
 
 ## Install
 
