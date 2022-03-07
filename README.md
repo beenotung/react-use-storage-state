@@ -6,7 +6,7 @@
 
 Imagine like recoil or redux without reducer and actions combined with localStorage.
 
-This package provider simpler development experiment (DX) for shared state than redux. You can **update the shared state directly**, without writing verbose code to ~~obtain dispatcher, create action, dispatch action, construct new state in reducer~~.
+This package provider simpler development experiment (DX) for shared state than redux. You can **update the shared state directly**, without writing verbose code to ~~obtain dispatcher, create action, dispatch action, construct new state in reducer, and return substate in selector~~.
 
 ## Features
 - Auto save and restore state across page refresh
