@@ -2,7 +2,11 @@
 
 > React use hook for shared and persisted state
 
-[![NPM](https://img.shields.io/npm/v/react-use-storage-state.svg)](https://www.npmjs.com/package/react-use-storage-state) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![npm Package Version](https://img.shields.io/npm/v/react-use-storage-state)](https://www.npmjs.com/package/react-use-storage-state)
+[![Minified Package Size](https://img.shields.io/bundlephobia/min/react-use-storage-state)](https://bundlephobia.com/package/react-use-storage-state)
+[![Minified and Gzipped Package Size](https://img.shields.io/bundlephobia/minzip/react-use-storage-state)](https://bundlephobia.com/package/react-use-storage-state)
+[![npm Package Downloads](https://img.shields.io/npm/dm/react-use-storage-state)](https://www.npmtrends.com/react-use-storage-state)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 Imagine like recoil or redux without reducer and actions combined with localStorage.
 
