@@ -17,6 +17,7 @@
   "types": "dist/cjs/core.d.ts",
   "module": "dist/esm/core.js",
   "files": [
+    "src",
     "dist"
   ],
   "scripts": {
